@@ -1,0 +1,113 @@
+Manish Patel
+ Software Developer
+ patelmanish131149198@gmail.com
+ 9399843984
+ linkedin.com/in/manish-patel
+543333227
+ github.com/Manish9383
+ https://leetcode.com/Manish13114919
+ 8/
+ https://www.codechef.com/users/ma
+ nish93998439
+ Profile
+ Driven Software Developer, familiar with
+ Programming Languages like C/ C++ and
+ Python
+ Team-oriented and eager to learn, I strive
+ to continuously improve my skills and
+ contribute to company success.
+ Skills
+ Programming Languages
+ •
+ C/C++ | DSA(Basics) | Python 
+Development Skills
+ •
+ HTML ,CSS ,Javascript, 
+Firebase(Authentication) , JavaScript 
+,APIs.
+ Frameworks
+ •
+ PySpark, beautifulsoup4(Web 
+scarping)
+ Technical
+ •
+ DBMS | CN
+ Database and Cloud
+ •
+ MYSQL | MONGO DB |Azure Cloud
+ Version Control Tools and IDE
+ •
+ Git/GitHub | Visual Studio Code 
+|Linux(Basic )
+ Education
+ Technocrats Institute of Technolgy, 
+B.Tech,CSE- AI&DS
+ CGPA : 7.70 (Till 6th SEM)
+ Gurukul Senior Secondary School 
+REWA
+ CBSE | 12th CBSE Board, PCM
+ Percentage : 76.6
+ Professional Experience
+ Web Developer Intern, Interarmy Bhopal
+ February 2024 – March 2024
+ •
+ Developed and launched a weather app providing 
+real-time weather updates.
+ •
+ Created an interactive quiz app with user-friendly 
+interfaces. 
+•
+ Built and integrated a chatbot with ChatGPT for 
+enhanced user interaction and support.
+ Projects
+ Real-Time Earthquake data processing and 
+visualization
+ •
+ Created an end-to-end data pipeline using 
+Microsoft Fabric for USGS earthquake data. 
+Implemented medallion architecture (Bronze, 
+Silver, Gold layers) for data processing. Utilized 
+Python, PySpark, and SQL within a Data 
+Lakehouse. Employed Data Factory for workflow 
+orchestration and Power BI for real-time 
+visualization. Ensured continuous, up-to-date 
+insights through automated execution and 
+dashboard updates.
+ •
+ Technologies used include--Microsoft Fabric, 
+Python ,Pyspark, data, lakehouse ,USGS 
+,SQL, EARTHQUAKE API, Data factory, 
+PowerBI.
+ Conversational Chatbot with OCI Generative AI
+ •
+ Developed a conversational chatbot using OCI 
+Generative AI and the LangChain framework. 
+Leveraged RAG, vector databases, and semantic 
+search to enhance chatbot responses. Built and 
+integrated prompts, models, memory, and chains 
+within the LangChain framework. Implemented 
+tracing and evaluation of chatbot performance 
+and successfully deployed the chatbot on OCI.
+ •
+ Technologies used include-- Langchain, RAG, 
+OCI, LLM.
+ Certificates
+ Microsoft Certified- Fabric Analytics Engineer 
+Associate(DP-600).
+ Microsoft Certified- Cloud Fundamentals(AZ
+900).
+ GitHub Foundations
+ Oracle Cloud Infrastructure Generative AI 
+Certified Professional
+ Data Analytics Essentials(CISC0)
+ Achievements
+ •
+ Solved 150+ Questions on Leet code and Contest 
+Rating :1547. 
+•
+ Solved 300+ Questions on Code chef and 
+participated in 30+ Coding Contest.
+ •
+ Participated in Smart India Hackathon
+ •
+ Volunteer at cultural activity

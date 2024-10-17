@@ -1,0 +1,75 @@
+RAJ CHANDANAN
+ +91 7898750605
+ WORK EXPERIENCE
+ PROFILE
+ High School
+ Gurukul School Rewa
+ 2019  (84%)
+ Gurukul School Rewa
+ Higher Secondary
+ 2021   (94%)
+ Technocrats Institute Of Technology
+ Bhopal
+ Bachelor of Technoogy
+ 2021-Present  (7.98 CGPA) 
+EDUCATION
+ rchanda852@gmail.com
+ www.linkedin.com/in/raj-chandanan-788a8a218
+ Driven by a profound fascination for computers and the
+ limitless possibilities of Development. A natural problem
+ solver, I thrive in tackling complex challenges and finding
+ innovative solutions. I am poised to contribute to the ever
+evolving field of Frontend Development and make a positive
+ impact in the realm of computer science.
+ January 01, 2023 - March 01, 2023 INTERN AT INFOTECH
+ Collaborated with the development team to design, implement, and
+ maintain Java-based applications.
+ Utilized Java programming language to develop robust and scalable
+ backend systems.
+ Leveraged SQL to manage and query databases, ensuring optimal
+ data storage and retrieval.
+ Integrated APIs to facilitate communication between different
+ components of the application and external services.
+ IN CSE-AI&DS
+ CERTIFICATIONS
+ GitHub Foundations Certified
+ Basic Java Programming from HackerRank.
+ Basic SQL Query writing from HackerRank.
+ Java Programming certification from HackerRank.
+ Problem Solving certification from HackerRank.
+ Cyber Security Basic certification from Udemy.
+ ACHIEVEMENTS
+ JAVA with 6+ months experience. 
+Have experience with MySQL.
+ 1600+ rating in CodeChef (3 *).
+ Solved 120+ questions in CodeChef.
+ Global Rank 15,694 in CodeChef.
+ Solved 75+ questions in LeetCode.
+ Global Rank 184,664 in LeetCode.
+ SOFT SKILLS
+ Positive Attitude
+ Analytical Skills
+ Leader/ Team Player
+ Interpersonal Skills
+ Effective Communicator 
+TECHNICAL SKILLS
+ C/C++
+ JAVA
+ MySQL
+ APIs
+ Basic DSA
+ HTML
+ CSS
+ JAVASCRIPT (Basic)
+ PROJECT
+ A weather app created using HTML, CSS, and JavaScript to
+ display real-time weather information based on user location or
+ input.
+ Technologies Used :- HTML, CSS, JAVASCRIPT.
+ WEATHER APP
+ SANJEEVANI APPLICATION
+ A Java-based desktop application designed to streamline various
+ hospital management processes. This application aims to
+ improve efficiency and accuracy in managing patient records,
+ booking appointments, and handling other administrative tasks.
+ Technologies Used :- JAVA, APIs, MySQL.

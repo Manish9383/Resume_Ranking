@@ -1,0 +1,3 @@
+Job Title: Software Developer
+
+We are seeking a Software Developer with experience in programming languages like C++, Python, and JavaScript. The ideal candidate should have experience with web development and a solid understanding of databases. Familiarity with cloud services and version control tools is a plus.

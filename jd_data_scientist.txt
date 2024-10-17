@@ -1,0 +1,3 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist with strong programming skills in Python and experience with data analysis frameworks like PySpark. The candidate should be familiar with machine learning algorithms and have a background in database management.
